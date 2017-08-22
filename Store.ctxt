@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=address\ name
+comment0.target=Store(Address,\ java.lang.String)
+comment1.params=item
+comment1.target=void\ addItem(Item)
+comment2.params=key
+comment2.target=Item\ getItemByKey(java.lang.String)
+comment3.params=
+comment3.target=java.util.Collection\ getCollectionOfItems()
+numComments=4
